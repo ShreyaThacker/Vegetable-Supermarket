@@ -106,8 +106,14 @@ WHERE [Rank] <= 10
 Please visit the [Tableau Dashboard](https://public.tableau.com/app/profile/shreya.thacker6577/viz/VegetableSupermarketPart1/Dashboardpart1) for an interactive experience
 
 A few images of charts:
+<p align="center">
+  <img width="700" height="450" src="https://github.com/ShreyaThacker/Vegetable-Supermarket/blob/main/Screenshot%202024-05-27%20200826.png">
+</p>
 
+<p align="center">
+  <img width="700" height="500" src="https://github.com/ShreyaThacker/Vegetable-Supermarket/blob/main/tables.png">
+</p>
 
-
-
-
+<p align="center">
+  <img width="1000" height="600" src="https://github.com/ShreyaThacker/Vegetable-Supermarket/blob/main/top%205.jpg">
+</p>
